@@ -4,5 +4,5 @@
 
 ## k8s
 
-* [Links](k8s/links.md)
+* [Literature and videos](k8s/links.md)
 
