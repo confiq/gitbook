@@ -8,5 +8,9 @@ Change default namespace
 kubectl config set-context $(kubectl config current-context) --namespace=app
 ```
 
+## debug
 
+```bash
+kubectl run -it --rm --restart=Never busybox --image=busybox /bin/sh
+```
 
