@@ -11,4 +11,6 @@ description: List of everything interesting on the net
 
 ## Videos
 
-* 
+## Articles
+
+* [EC2 Auto Scaling Groups With Multiple Instance Types & Purchase Options](https://aws.amazon.com/tw/blogs/aws/new-ec2-auto-scaling-groups-with-multiple-instance-types-purchase-options/)
